@@ -1,0 +1,12 @@
+.section{
+    background-size:cover;
+}
+.card__style{
+    height: 600px !important;
+    background-size:cover;
+    background-repeat: no-repeat;
+    box-shadow: 0px 0px 10px 10px rgba(0,0,0,0.2);
+
+}
+
+  
